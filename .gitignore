@@ -1,0 +1,32 @@
+node_modules/
+dist/
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Env local files
+.env.local
+.env.*.local
+
+# Lint cache
+.eslintcache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Local tooling folders
+.ruler/
